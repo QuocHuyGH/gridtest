@@ -41,7 +41,7 @@
                         <!-- vinsdocker is org name. -->
                         <!-- containertest is the name of the image /  application  -->
 <!--                        <repository>vinsdocker/containertest</repository>-->
-                        <repository>wanderingnightowl/containertest2</repository>
+                        <repository>wanderingnightowl/containertest</repository>
                         <!-- version of your image: could be sprint11 or release5 etc -->
                         <tag>googletest</tag>
                     </configuration>

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.testautomation.container.test.GoogleTest" duration-ms="2620" started-at="2019-07-05T18:45:49Z" finished-at="2019-07-05T18:45:51Z">
+  <suite name="com.testautomation.container.test.GoogleTest" duration-ms="2465" started-at="2019-07-05T19:26:46Z" finished-at="2019-07-05T19:26:48Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="2620" started-at="2019-07-05T18:45:49Z" finished-at="2019-07-05T18:45:51Z">
+    <test name="Command line test" duration-ms="2465" started-at="2019-07-05T19:26:46Z" finished-at="2019-07-05T19:26:48Z">
       <class name="com.testautomation.container.test.GoogleTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testautomation.container.test.GoogleTest@3fb6a447]" name="setUp" is-config="true" duration-ms="899" started-at="2019-07-05T20:45:49Z" finished-at="2019-07-05T20:45:49Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testautomation.container.test.GoogleTest@3fb6a447]" name="setUp" is-config="true" duration-ms="883" started-at="2019-07-05T21:26:46Z" finished-at="2019-07-05T21:26:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.testautomation.container.test.GoogleTest@3fb6a447]" name="googleTest" duration-ms="1649" started-at="2019-07-05T20:45:49Z" finished-at="2019-07-05T20:45:51Z">
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.testautomation.container.test.GoogleTest@3fb6a447]" name="googleTest" duration-ms="1511" started-at="2019-07-05T21:26:47Z" finished-at="2019-07-05T21:26:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testautomation.container.test.GoogleTest@3fb6a447]" name="tearDown" is-config="true" duration-ms="60" started-at="2019-07-05T20:45:51Z" finished-at="2019-07-05T20:45:51Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testautomation.container.test.GoogleTest@3fb6a447]" name="tearDown" is-config="true" duration-ms="61" started-at="2019-07-05T21:26:48Z" finished-at="2019-07-05T21:26:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
