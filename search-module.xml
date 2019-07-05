@@ -1,0 +1,7 @@
+<suite name="search-module" parallel="none" allow-return-values="true" >
+    <test name="search-test">
+        <classes>
+            <class name="com.testautomation.container.test.GoogleTest"/>
+        </classes>
+    </test>
+</suite>
